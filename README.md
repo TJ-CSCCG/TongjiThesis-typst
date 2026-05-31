@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="template/figures/modern-tongji-thesis.svg" alt="modern-tongji-thesis logo" width="550">
+  <img src="template/figures/modern-tongji-thesis.png" alt="modern-tongji-thesis logo" width="550">
 </p>
 
 <p align="center">
